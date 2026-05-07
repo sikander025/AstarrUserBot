@@ -20,6 +20,10 @@ class Config:
     # heroku related configs
     HEROKU_APPNAME = getenv("HEROKU_APPNAME", None)
     HEROKU_APIKEY = getenv("HEROKU_APIKEY", None)
+
+    # github related configs
+    PLUGINS_REPO = getenv("PLUGINS_REPO", "Badmunda05/Pbx2.0")
+    
     FORCESUBS = filters.chat()
 
     # storage dir: you may or may not edit
