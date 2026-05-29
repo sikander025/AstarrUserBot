@@ -4,8 +4,8 @@ class First:
 ʀᴇᴘᴏ [ᴄɪᴄᴋ ʜᴇᴀʀᴇ](https://gitlab.com/Badhacker98/PBX_2.0/-/forks/new)
 
 
- ᴘᴏᴡᴇʀᴇᴅ ʙʏ [⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸](https://t.me/ll_BAD_MUNDA_ll)"""
-    CREATOR = '[⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸](https://t.me/ll_BAD_MUNDA_ll)'
+ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [𝐒𝐈𝐊𝐀𝐍𝐃𝐄𝐑](http://t.me/SIKANDER_25)"""
+    CREATOR = '[𝐒𝐈𝐊𝐀𝐍𝐃𝐄𝐑](http://t.me/SIKANDER_25)'
     MSG_ON = """
 ━━
 ➠ **𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 -** `{}`
