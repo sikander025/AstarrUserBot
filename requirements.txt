@@ -31,3 +31,5 @@ wikipedia
 py-tgcalls
 yt-dlp
 kurigram>=2.2.13
+flask
+gunicorn
